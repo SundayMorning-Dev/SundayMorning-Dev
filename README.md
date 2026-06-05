@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou a Mellanie 🌷
 
-<!--
-**SundayMorning-Dev/SundayMorning-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Front-End.
 
-Here are some ideas to get you started:
+Atualmente estudo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS
+
+## Projetos em andamento ☕
+
+* Landing page para uma marca fictícia de café artesanal
+* Exercícios e desafios de Front-End
+* Estudos de JavaScript
+
+## Objetivos 
+
+Construir projetos cada vez mais completos e iniciar minha carreira como Desenvolvedora Front-End.
+
+Obrigado pela visita!
+
